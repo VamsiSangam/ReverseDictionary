@@ -1,0 +1,1523 @@
+about - approximately, nearly, close to, almost, approaching
+also - moreover, besides, as well as, in addition to, too
+amazing - astonishing, startling, stunning, dazzling, remarkable
+awesome - impressive, fabulous, astonishing, outstanding
+awful - dreadful, alarming, frightful, terrible, horrid, shocking
+bad - offensive, repulsive, corrupt, wicked, defective
+beautiful - attractive, appealing, alluring, gorgeous, handsome
+begin - commence, initiate, introduce, launch, originate
+big - huge, immense, massive, enormous
+boring - tedious, tiresome, commonplace, monotonous
+but - yet, still, nevertheless, though, however, moreover
+change - alter, transform, vary, diversify
+choose - select, elect, nominate, identify, prefer
+cool - rad, killer, wonderful, marvelous, fantastic, awesome
+definitely - unquestionably, precisely, positively, clearly
+easy - effortless, natural, comfortable, relaxed
+excellent - superior, unsurpassed, superb, magnificent
+exciting - thrilling, stirring, rousing, chilling
+fast - swift, quick, fleet, hasty, instant
+finish - complete, conclude, achieve, deplete, consume
+fun - pleasant, pleasurable, amusing, entertaining, jolly
+funny - comical, amusing, entertaining, bizarre, laughable
+get - obtain, receive, acquire, achieve
+give - donate, supply, deliver, distribute
+good - satisfactory, fine, competent
+got - received, obtained, attained, succeded in
+great - tremendous, remarkable, superior, expert, wonderful
+guy - man, dude, person, fellow, boy
+happy - pleased, joyous, elated, jubilant, cheerful, delighted
+hard - complex, complicated, difficult, rigorous, harsh
+help - assist, aid, support, serve, sustain
+hurt - injure, impair, harm, damage, wound
+important - significant, substantial, meaningful, critical, vital
+interesting - absorbing, fascinating, thought-provoking, appealing, entertaining
+jargon - argot, slang
+jovial - genial, merry
+judge - estimate, referee
+justification - excuse, reason
+juvenile - adolescent, immature
+keen - clever, observant
+label - brand, classify
+labor - toil, work
+lead - direct, proceed
+lean - slim, thin
+leave - abandon, desert
+liberal - copious, unrestrained
+liberal - lenient, open-minded
+limitation - boundary, constraint
+lucid - clear, understandable
+lucky - auspicious, fortunate
+mad - furious, irate
+manage - administer, control
+manipulate - control, shape
+marginal - borderline, limited
+match - agree, correspond
+maze - complexity, labyrinth
+meditate - ponder, think
+memorial - commemoration, monument
+mention - allude, refer to
+merge - blend, fuse
+narrow - confined, restricted
+nature - aspect, character
+necessary - mandatory, requisite
+negate - contradict, refute
+negligent - careless, remiss
+negotiate - bargain, deal
+nice - affable, benign
+noble - aristocratic, distinguished
+novice - beginner, nonprofessional
+nuisance - annoyance, offense
+obedient - faithful, loyal
+objection - disapproval, protest
+obligatory - compulsory, required
+observe - notice, watch
+obvious - conspicuous, definite
+offend - anger, irritate
+offer - bid, proposal
+omen - premonition, sign
+omit - exclude, remove
+opportune - advantageous, auspicious
+pacify - appease, placate
+pain - ache, discomfort
+paramount - chief, leading
+partisan - biased, dogmatic
+passive - inactive, lethargic
+pause - break, cease
+permeate - diffuse, disseminate
+perpetuate - endur, preserve
+perplex - astonish, baffle
+persecute - afflict, harass
+radiate - effuse, emanate
+radical - basic, fundamental
+range - anger, furor
+rank - arrange, classify
+realize - accomplish, fulfill
+recalcitrant - obstinate, stubborn
+receptacle - container, repository
+reconcile - atone, conciliate
+regret - deplore, grieve
+reliable - dependable, trustworthy
+sanction - approval, permit
+scope - aim, extent
+section - division, portion
+settle - adjust, compromise
+shallow - superficial, trivial
+shrewd - careful, calculating
+significant - distinctive, important
+slight - delicate, slender
+spontaneous - impromptu, unplanned
+spread - announce, broadcast
+stabilize - balance, steady
+tame - domesticate, subdue
+tangle - intertwine, twist
+temper - mood, nature
+tendency - inclination, trend
+term - cycle, duration
+thrift - conservation, prudence
+tough - aggressive, unyielding
+transfer - convey, exchange
+tumult - agitation, commotion
+turbulent - disordered, violent
+vain - boastful, inflated
+valid - authorized, legitimate
+variety - assortment, diversify
+verify - authenticate, substantiate
+Abroad - Overseas
+Accord - Agreement
+Admit - Confess
+Agree - Consent
+Alike - Same
+Allow - Permit
+Amount - Quantity
+Angry - Mad
+Answer - Response
+Ask - Inquire
+Attire - Dress
+Away - Absent
+Awful - Terrible
+Baby - Infant
+Beautiful - Pretty
+Becoming - Fitting
+Beg - Implore
+Begin - Commence
+Belly - Stomach
+Big - Large
+Bizarre - Weird
+Blank - Empty
+Brave - Bold
+Broad - Wide
+Bucket - Pail
+Busy - Active
+Calamity - Disaster
+Candy - Sweets
+Center - Middle
+Change - Transform
+Chiefly - Mainly
+Choosy - Picky
+Close - Shut
+Collect - Gather
+Complete - Total
+Confine - Restrict
+Confuse - Mixed Up
+Considerate - Thoughtful
+Contrary - Opposite
+Correct - Right
+Cunning - Clever
+Dash - Sprint
+Daybreak - Dawn
+Dedicated - Committed
+Deliberate - Planned
+Delicate - Fragile
+Destiny - Fate
+Disclose - Reveal
+Discount - Reduction
+Disgrace - Shame
+Eager - Keen
+Elevate - Raise
+Enormous - Huge
+Enquire - Investigate
+Evaluate - Assess
+Evil - Bad
+Exactly - Precisely
+Except - Apart From
+Exit - Leave
+Extra - Additional
+Fair - Unbiased
+False - Untrue
+Famous - Renowned
+Fantastic - Great
+Fast - Quick
+Finish - Complete
+Formerly - Previously
+Fortunate - Lucky
+Fun -Entertaining
+Function -Operate
+Funny - Amusing
+Garbage - Trash
+Get - Receive
+Glad - Happy
+Glitter - Sparkle
+Good - Fine
+Grab - Seize
+Grumble - Grouse
+Hall - Corridor
+Handsome - Good Looking
+Happily - Fortunately
+Hard - Difficult
+Hazard - Danger
+Help - Assist
+Hint - Tip
+Huge - Enormous
+Hurt - Injure
+Hurry - Rush
+Ignore - Snub
+Ill - Sick
+Imitate - Mimic
+Immediate - Instantly
+Impact - Affect
+Impartial - Neutral
+Important - Significant
+Inconsiderate - Thoughtless
+Infamous - Notorious
+Infect - Contaminate
+Informal - Casual
+Innocent - Harmless
+Inspect - Examine
+Instructions - Directions
+Insufficient - Inadequate
+Intellectual - Mental
+Intelligent - Smart
+Intend - Mean
+Inventory - Stock
+Invoice - Bill
+Jealous - Envious
+Job - Work
+Joy - Delight
+Kid - Child
+Kind - Benevolent
+Learn - Memorize
+Lethal - Deadly
+Listen - Hear
+Little - Small
+Lots - Many
+Loving - Fond
+Loyal - Faithful
+Lucid - Clear
+Mad - Crazy
+Make - Build
+Maintain - Preserve
+Maybe - Perhaps
+Meeting - Assembly
+Mild -Gentle
+Misery - Distress
+Modern - Contemporary
+Movie - Film
+Native - Local
+Necessary -Essential
+Near - Close
+New - Recent
+Nice - Pleasant
+Noon - Midday
+Notify - Inform
+Numerous - Many
+Odd - Strange
+Old - Mature
+Ornament - Decoration
+Outgoing - Friendly
+Overlook - Miss
+Oversee - Supervise
+Part - Section
+Particular - Specific
+Perception - Insight
+Perfect - Flawless
+Possibility - Opportunity
+Praise - Compliment
+Provide - Supply
+Quake - Tremble
+Quite - Fairly
+Raise - Lift
+Real - Genuine
+Receive - Get
+Regret - Remorse
+Reliable - Dependable
+Remark - Comment
+Renew - Resume
+Respond - Reply
+Rest - Relax
+Rich - Wealthy
+Rock - Stone
+Rude - Impolite
+Sad - Unhappy
+Safe - Secure
+Scared - Afraid
+See - Look
+Select - Choose
+Significant - Meaningful
+Sincere - Honest
+Sleepy -Drowsy
+Slim - Sender
+Steady - Firm
+Stop - Cease
+Suggest - Propose
+Sure - Certain
+Symbolize - Represent
+Talk - Speak
+Temper - Mood
+Temporary - Transitory
+Think - Ponder
+Tiny - Small
+Transform - Convert
+Trustworthy -Reliable
+Try - Attempt
+Uncommon - Unusual
+Uncooked - Raw
+Under - Below
+Unfortunate - Unlucky
+Use - Utilize
+Usually - Generally
+Vague - Indistinct
+Vanquish - Conquer
+Vary - Differ
+Vast - Huge
+Want - Desire
+Weak - Feeble
+Withstand - Resist
+Yell - Shout
+ability - capacity, faculty, talent, skill, competence, aptitude
+abolish - exterminate, extinguish, extirpate, eradicate, obliterate
+abstinence - self-denial, temperance, sobriety, continence
+abstracted - absorbed, distraught, absent-minded
+abuse - misuse, mistreat, ill-treat, maltreat
+accidental - fortuitous, contingent, incidental, adventitious
+accompany - conduct, escort, chaperone
+acknowledge - admit, own, avow, confess, concede
+active - energetic, dynamic, vigorous, lively
+adapt - accommodate, adjust, conform, fit, reconcile
+admonish - reprove, rebuke, reprimand, reproach
+adulterate - debase, doctor, load, sophisticate
+advance - forward, foster, further, promote
+advantage - edge, handicap, odds
+adventurous - adventuresome, audacious, daredevil, daring, venturesome
+advice - counsel, recommendation
+advise - counsel, recommend
+affair - business, concern, lookout
+affect - influence, impress, touch, move, strike
+affectation - pose, air, mannerism
+afflict - agonize, excruciate, rack, torment, torture
+afraid - apprehensive, fearful
+ageless - eternal, timeless
+agitate - churn, convulse, rock, shake
+agree - conform, harmonize, accord, correspond, coincide
+aim - direct, level, point, train
+airy - diaphanous, ethereal, filmy, gauzy, gossamer, sheer, transparent, vaporous
+alarm - alert, tocsin, warning
+allocate - appropriate, designate, earmark
+alone - lonely, lonesome, solitary
+also - too, likewise, besides, moreover, furthermore
+amateur - dabbler, dilettante, tyro
+ambiguous - equivocal, obscure, recondite, abstruse, vague, cryptic, enigmatic
+ambush - ambuscade, bushwhack, waylay
+amenity - comfort, convenience, facility
+amiable - affable, good-natured, obliging, agreeable, pleasant
+amiss - afield, astray, awry, wrong
+amuse - entertain, divert, regale
+analyze - anatomize, dissect, resolve
+ancestor - forebear, forefather, progenitor
+anger - rage, fury, ire, wrath, resentment, indignation
+angry - furious, indignant, irate, ireful, mad, wrathful
+announce - advertise, broadcast, declar, proclaim, promulgate, publish
+annoy - irritate, bother, irk, vex, provoke, aggravate, peeve, rile
+answer - respond, reply, retort
+anxiety - worry, care, concern, solicitude
+apology - apologetic, apologia, defense, justification
+apparent - clear, clear-cut, distinct, evident, manifest, obvious, patent, plain
+appear - emerge, issue, loom, materialize, show
+appendage - appurtenance, adjunct, accessory, attachment
+applaud - cheer, root
+appoint - designate, name, nominate, tap
+appreciate - value, prize, esteem, treasure, cherish
+apprehend - comprehend, understand, grasp
+apprehension - foreboding, presentiment, misgiving
+appropriate - arrogate, commandeer, confiscate, preempt, usurp
+approve - endorse, sanction, certify, accredit, ratify
+arbitrary - capricious, whimsical
+area - region, belt, zone, district, locality
+argue - quarrel, wrangle, squabble, bicker
+argument - dispute, controversy
+argumentative - combative, contentious, disputatious, quarrelsome, scrappy
+arrange - marshal, order, organize, sort, systematize
+art - craft, expertise, knack, know-how, technique
+artifice - trick, ruse, wile, feint, stratagem, maneuver, dodge
+artificial - synthetic, ersatz, simulated
+ask - question, inquire, query, interrogate, examine, quiz
+assent - agree, accede, acquiesce, consent, concur, subscribe
+assert - asseverate, declar, affirm, aver, avow
+assign - allot, apportion, allocate
+assistant - aide, coadjutant, helper, lieutenant, second
+attack - bombard, assail, storm, assault, beset
+attribute - ascribe, impute, credit, assign, refer
+authentic - bona fide, genuine, real, true, undoubted, unquestionable
+authorize - accredit, commission, empower, license
+average - medium, mediocre, fair, middling, indifferent, tolerable
+aware - cognizant, conscious, sensible, awake, alert, watchful, vigilant
+awkward - clumsy, maladroit, inept, gauche, ungainly
+bad - evil, wicked
+balance - equilibrium, equipoise, poise
+band - company, corps, party, troop, troupe
+banish - exile, expatriate, deport, transport, extradite
+banter - chaff, josh, kid, rag, razz, rib
+bargain - compact, contract, covenant, deal
+barrage - bombard, pepper, shower
+base - basis, foundation, ground, groundwork
+batter - maim, mangle, maul, mutilate
+be - breathe, exist, live, subsist
+bear - endure, stand, abide, suffer, tolerate
+bearing - manner, demeanor, mien, presence
+beautiful - lovely, pretty, handsome, comely, fair
+beg - crave, beseech, implore, entreat, importune
+begin - commence, start, initiate, inaugurate
+beginning - birth, dawn, genesis, nascence, rise
+behavior - conduct, deportment
+belief - credence, credit, faith
+belligerent - bellicose, pugnacious, contentious, quarrelsome
+bend - crook, curve, round
+beneficial - profitable, advantageous
+benefit - capitalize, profit
+benevolent - charitable, ellemosynary, philanthropic
+besiege - beleaguer, blockade, invest, siege
+bet - ante, pot, stake, wager
+bias - color, jaundice, prejudice, warp
+binge - fling, jag, orgy, spree
+bite - champ, gnaw
+bitter - acerbic, acrid
+blackball - blacklist, boycott, ostracize
+blackout - faint, swoon, syncope
+blame - fault, guilt
+blameworthy - blamable, blameful, censurable, culpable, guilty, reprehensible
+blast - blight, dash, nip, wreck
+blaze - flame, flare, flash, glare, incandescence, glow
+blemish -imperfection, fault, defect, flaw
+blink - nictitate, twinkle, wink
+block - hide, obscure, obstruct, screen, shroud
+bloody - gory, sanguinary, sanguineous
+bloom - blossom, efflorescence, florescence, flower, flush, prime
+blunder - bumble, flounder, lumber, lurch, stumble
+boast - brag, crow, vaunt
+bodily - corporal, corporeal, fleshly, physical, somatic
+body - corpse, carcass, cadaver
+boil - simmer, seethe, stew
+bombast - rant, fustian, claptrap, rodomontade
+bonus - bounty, subsidy, premium, prize, reward, gratuity
+book - bespeak, engage, reserve
+boor - barbarian, churl, lout, vulgarian, yahoo
+border - margin, edge, verge, brink, rim, brim
+boredom - ennui, tedium
+boring - monotonous, tedious, irksome, tiresome, handrum
+botch - blow, bungle, fumble, muff
+boundary - border, frontier, limit
+bouquet - nosegay, posy
+branch - arm, fork, offshoot
+brave - courageous, fearless, intrepid, bold, audacious, valient, valorous, doughty, mettlesome, plucky, dauntless, undaunted
+brawl - broil, donnybrook, fracas, fray, free-for-all, melee, row, ruction
+breach - infraction, violation, transgression, trespass, infringement
+break - crack, fracture, burst, split, splinter, shatter, shiver, smash
+breeze - cinch, pushover, snap, walkaway, walkover
+bright - brilliant, radiant, lustrous, lambent, lunimous, incandescent, effulgent
+broach - introduce, moot, raise
+broad-minded - broad, liberal, open-minded, tolerant
+brood - dwell, fret, mope, stew, worry
+brush - flick, glance, graze, shave, skim
+brute - animal, brutish, brutal, beastly, bestial
+building - structure, edifice, pile
+bulge - balloon, belly, jut, overhang, project, protrude
+bulwark - barricade, breastwork, earthwork, rampart, bation, parapet
+burden - affliction, cross, trial, tribulation
+burdensome - onerous, oppressive, arduous, demanding, rigorous, exacting
+burn - scorch, singe, sear, char, parch
+business - industry, commerce, trade, traffic
+busy - industrious, diligent, assiduous, sedulous
+cadge - beg, bum, mooch, panhandle
+calculate - compute, reckon, cipher, figure
+call - convene, convoke, muster, summon
+calm - tranquil, placid, serene, halcyon, peaceful
+campaign - crusade, drive, push
+caprice - whim, whimsy, vagary, freak
+care - charge, custody, keeping, supervision, trust
+careful - heedful, mindful, observant, watchful
+careless - heedless, thoughtless, inadvertent
+caress - cuddle, fondle, pet
+caricature - burlesque, parody, travesty, satire, lampoon
+casuistry - fallacy, sophistry, spuriousness, speciousness, sophism
+catalyst - ferment, leaven, leavening, yeast
+catch - enmesh, ensnare, entangle, entrap, snare, tangle, trap
+cause - reason, occasions, antecedent
+celebrity - hero, luminary, name, notable, personage
+center - focus, headquarters, heart, hub, seat
+certain - inescapable, inevitable, sure, unavoidable
+certainty - certitude, assurance, conviction
+chafe - abrade, excoriate, fret, gall
+chance - random, casual, haphazard, desultory
+charge - freight, imbue, impregnate, permeate, pervade, saturate, suffuse
+charm - beguile, bewitch, captivate, enchant, entrance, fascinate
+choice - altenative, option, preference, selection, election
+choose - select, elect, pick
+chronic - confirmed, habitual, inveterate
+circle - coterie, set, clique
+circumference - circuit, compass, perimeter, periphery
+citizen - national, subject
+claim - pretense, pretension, title
+clean - antiseptic, cleanly, immaculate, spotless
+clear - limpid, lucid, pellucid, transparent
+clever - ingenious, shrewd
+cliche - bromide, commonplace, platitude, truism
+close - immediate, near, nearby, nigh, proximate
+clothe - cloak, drape, mantle, robe
+coagulate - clot, congeal, curdle, jell, jelly, set
+coarse - gross, indelicate, vulgar, obscene, ribald
+cold - artic, chilly, cool, frigid, frosty, gelid, glacial, icy
+collision - concussion, crash, impact, jar, jolt, shock
+comfort - console, solace
+comfortable - cozy, snug, restful
+comment - observation, remark
+commit - consign, entrust, confide, relegate
+complex - complicated, intricate, involved, tangled, knotty
+conceit - amour-propre, egoism, egotism, narcissism, vanity
+condemn - damn, doom, sentence
+confer - consult, parley, treat
+confidence - assurance, aplomb, self-confidence, self-possession
+confirm - corroborate, substantiate, authenticate, validate, verify
+conflict - contest, combat, fight, affray
+confuse - addle, befuddle, discombobulate, fuddle, muddle, throw
+conjecture - surmise, guess, speculate, infer
+consider - deem, regard, account, reckon
+conspiracy - plot, machination, collusion, intrigue, cabal
+contain - hold, accommodate
+contaminate - befoul, foul, poison, pollute, taint
+contemporary - contemporaneous, simultaneous, synchronous, concurrent, coincident, concomitant
+continual - continuous, constant, ceaseless, incessant, perpetual, eternal, perennial, interminable
+contract - condense, compress, constrict, shrink
+contrary - balky, perverse, wayward, ornery
+convert - metamorphose, transfigure, transform, transmogrify, transmute
+cool - composed, collected, unruffled, nonchalant, impertubable, detached
+correct - rectify, remedy, redress, reform, revise, amend
+corrupt - debase, debauch, deprave, pervert, vitiate
+count - import, matter, signify, weigh
+couple - pair, brace, yoke
+crisis - crossroad, exigency, head, juncture, pass
+critical - captious, censorious, faultfinding
+criticize - blame, reprehend, censure, condemn, denounce
+crowd - crush, flock, horde, mob, press, throng
+crude - native, raw
+cruel - fierce, ferocious, barbarous, inhuman, savage, vicious
+crush - mash, pulp, smash, squash
+cry - weep, wail, keen, whimper, sob, blubber
+cure - heal, remedy
+curious - inquisitive, snoopy, nosy
+dark - dim, murky, dusky, obscure, opaque, shady, shadowy
+daze - bemuse, benumb, stun, stupefy
+dead - deceased, departed, extinct, lifeless, inanimate
+decay - rot, putrefy, spoil, crumble, molder, disintegrate, decompose
+deceive - betray, mislead, beguile, delude, dupe, hoodwink, bamboozle, double-cross
+decide - determine, settle, rule, conclude, resolve
+decision - conclusion, determination
+decisive - conclusive, crucial, definitive, determinative
+decrease - lessen, reduce, dwindle, abate, diminish, subside
+decry - disparage, depreciate, derogate, belittle, minimize, downgrade
+deep - abysmal, profound
+defeat - conquer, vanquish, beat, rout, subdue, subjugate, overcome
+defend - protect, guard, preserve, shield, safeguard
+defer - postpone, shelve, stay, suspend
+defy - beard, brave, challenge, dare, face, front
+degrade - abase, debase, demean, humble, humiliate
+delay - slow, retard, detain
+delicate - choice, dainty, elegant, exquisite, fine
+delicious - ambrosial, delectable, luscious, scrumptious, toothsome, yummy
+demand - claim, exact, require
+demote - break, bust, degrade, downgrade, reduce
+deny - contradict, contravene, disaffirm, gainsay, negate, negative, traverse
+dependent - conditional, contingent, relative, subject
+deplete - drain, exhaust, impoverish, enervate
+depressed - blue, dejected, dispirited, downcast, downhearted
+describe - narrate, recite, recount, rehearse, relate, report
+desire - covet, crave, want, wish
+despair - hopelessness, desperation, despondency, discouragement
+despise - contemn, disdain, scorn, scout
+despondent - despairing, forlorn, hopeless
+detailed - circumstantial, minute, particular
+development - evolution, progress
+deviation - aberration, divergence
+devote - dedicate, consecrate, pledge
+dexterous - deft, adroit, handy, nimble
+dialect - vernacular, jargon, cant, argot, lingo, patois
+dictate - decree, impose, ordain, prescribe
+dictatorial - authoritarian, dogmatic, doctrinaire, imperious, overbearing
+diction - wording, vocabulary, phraseology, phrasing
+differ - disagree, vary
+difference - dissimilarity, unlikeness, divergence, variation, distinction, discrepancy
+difficulty - hardship, rigor, vicissitude
+dip - douse, duck, drunk, imerse, souse, submerge
+dirty - filthy, foul, nasty, squalid, grimy
+disadvantage - detriment, drawback, handicap
+disappear - evanesce, evaporate, fade, vanish
+disaster - calamity, catastrophe, cataclysm
+discord - strife, contention, dissention, conflict, clash, variance
+discourage - dishearten, dispirit
+discover - ascertain, determine, learn
+discuss - argue, debate, dispute, contend
+disgrace - dishonor, shame, infamy, ignomity, odium, obloquy, opprobrium, disrepute, discredit
+disguise - camouflage, cloak, dissemble, dissimulate, mask
+disgust - nauseate, repel, revolt, sicken
+dishonest - lying, untruthful, deceitful, mendacious
+dismay - appall, daunt, horrify, shake
+dismiss - boot, bounce, can, cashier, discharge, drop, fire, sack
+display - array, panoply, parade, pomp
+disposition - temperament, character, personality, nature
+dissuade - deter, discourage
+distant - far, far-off, faraway, remote, removed
+distinct - discrete, separate, several
+distort - twist, deform, contort, warp
+distribute - divide, dispense, dole, deal, ration
+doctrine - dogma, tenet
+dominant - predominant, preponderant, paramount, preeminent
+doubtful - dubious, questionable
+dramatic - histrionic, melodramatic, stagy, theatrical
+dry - dehydrate, desiccate, parch
+dull - colorless, drab, humdrum, lackluster, pedestrian, stodgy, uninspired
+dumb - inarticulate, mute, speechless
+eager - avid, keen, agog
+earn - deserve, merit, rate, win
+easy - simple, facile, effortless, smooth, light
+eat - consume, devour, ingest
+eccentricity - idiosyncracy, quirk
+echo - reecho, reflect, resound, reverberate
+ecstasy - rapture, transport, exaltation
+effect - consequence, result, outcome, upshot, sequel
+effective - effectual, efficacious, efficient
+effort - exertion, endeavor, application, pains, trouble
+eject - expel, evict, dismiss, oust
+elaborate - complicated, intricate
+elderly - old, aged, venerable, superannuated
+elegance - grace, polish, urbanity
+element - component, constituent, factor, ingredient
+elevation - altitude, height
+eliminate - eradicate, liquidate, purge
+embarrass - abash, chagrin, discomfit, disconcert, faze, rattle
+emphasis - accent, stress
+empty - vacant, blank, void, vacuous, bare, barren
+enclose - cape, coop, fence, hem, pen, wall
+encomium - eulogy, panegyric, tribute, citation
+encourage - animate, cheer, embolden, hearten, inspirit
+endanger - hazard, imperil, jeopardize, risk
+enforce - implement, invoke
+engagement - appointment, assignation, date, rendezvous, tryst
+enmity - hostility, antagonism, animosity, rancor, antipathy, animus
+enormous - immense, huge, gigantic, colossal, mammoth, tremendous, stupendous, gargantuan, vast
+enrapture - entrance, ravish, thrill, transport
+envy - begrudge, covet
+equanimity - composure, sang-froid, serenity
+equipment - apparatus, gear, materiel, outfit, paraphernalia, rig, tackle
+erase - expunge, efface, delete, cancel
+error - mistake, oversight
+escape - avoid, shun, eschew, evade, elude
+estimate - appraise, assess, assay, evaluate, rate
+estrange - alienate, disaffect
+etiquette - propriety, protocol, decomrum
+evoke - educe, elicit
+exaggerate - inflate, magnify, overstate
+example - instance, case, illustration, sample, specimen
+excel - surpass, exceed, transcend, outdo, outstrip
+excessive - exorbitant, extravagant, immoderate, inordinate, extreme, unreasonable
+existence - actuality, being
+expect - anticipate, hope, await
+experience - suffer, sustain, taste, undergo
+explain - elucidate, expound, explicate, interpret, construe
+explicit - categorical, definite, express, specific
+expressive - eloquent, meaningful, significant
+extemporaneous - extemporary, extempore, impromptu, offhand, unrehearsed, unpremeditated, ad-lib
+extricate - disengage, disentangle, untangle
+extrinsic - extraneous, foreign, alien
+face - countenance, kisser, mug, pan, physiognomy, puss, visage
+fair - just, equitable, impartial, unprejudiced, unbiased, objective, dispassionate
+faithful - loyal, true, constant, fast, steadfast, staunch
+faithless - unfaithful, false, disloyal, traitorous, treacherous, perfidious, recreant
+familiar - close, intimate, confidential, chummy
+fanatic - zealot, enthusiast
+fantastic - bizarre, grotesque, fanciful, exotic
+fashion - style, mode, vogue
+fashionable - chic, dashing, in, modish, posh, sharp, smart, stylish, swank, trendy
+fast - rapid, swift, fleet, speedy, quick, hasty, expeditious
+fasten - anchor, fix, moor, secure
+fat - obese, corpulent, fleshy, portly, stout, pudgy, rotund, plump, chubby
+fatal - deadly, mortal, lethal
+fate - destiny, kismet, lot, portion
+fault - failing, weakness, frailty, foible, vice
+favorable - propitious, auspicious, benign, conducive
+fawn - apple-polish, bootlick, kowtow, slaver, toady, truckle
+fear - fright, dread, terror, horror, panic, alarm, dismay, consternation, trepidation
+feat - achievement, exploit, masterstroke
+feeling - emotion, passion, sentiment
+feminine - female, womanly, womanish, effeminate, ladylike
+fertile - fecund, fruitful, productive, prolific
+fidelity - allegiance, fealty, loyalty
+field - bailiwick, domain, province, realm, sphere, territory
+figure - design, device, motif, pattern
+financial - pecuniary, fiscal, monetary
+firm - hard, solid
+fit - suitable, meet, proper, appropriate, apt, fitting, happy, felicitous
+flagrant - glaring, gross, egregious, rank
+flash - gleam, glance, glint, sparkle, glitter, glisten, shimmer, glimmer, twinkle, scintillate
+flexible - elastic, resilient, springy, supple
+flirt - dally, play, toy, trifle
+flock - flight, herd, drove, pack, gang, gaggle, bevy, brood
+flourish - brandish, wave
+flow - current, flood, flux, rush, stream, tide
+flutter - flicker, flit, flitter, hover
+follow - succeed, ensue, result, supervene
+foolish - silly, fatuous, absurd, preposterous, ridiculous, ludicrous
+forbid - ban, enjoin, interdict, prohibit, proscribe
+force - compel, coerce, constrain, oblige, obligate
+foreign - alien, exotic, strange
+foretell - augur, divine, prophesy, vaticinate
+forgetful - unmindful, oblivious
+forgive - pardon, excuse, condone
+form - figure, shape, configuration, contour, profile
+forte - metier, specialty, thing
+found - create, establish, institute, organize
+fragile - breakable, frangible, delicate, brittle
+fragrance - aroma, bouquet, perfume, redolence, scent
+frank - candid, outspoken, straightforward, open
+freedom - liberty, license
+frighten - scare, alarm, terrify, terrorize, startle, panic
+frown - glower, lower, scowl
+frustrate - thwart, foil, balk
+full - complete, plenary, replete
+function - duty, office, role
+furnish - equip, outfit, appoint, accouter
+futile - barren, bootless, fruitless, unavailing, useless, vain
+gather - collect, assemble, congregate, accumulate, amass
+gaudy - flashy, garish, loud, meretricious, tawdry
+gaze - stare, gape, glare, peer, ogle
+general - common, generic, universal
+gesture - gesticulation, sign, signal
+ghastly - grim, gruesome, grisly, macabre, lurid
+giddy - dizzy, vertiginous
+glad - happy, cheerful, lighthearted, joyful, joyous
+glib - slick, smooth-tongued
+glum - gloomy, morose, crabbed, dour, saturnine, sullen, surly, sulky
+gossip - blab, tattle
+gracious - cordial, genial, sociable
+grand - magnificient, imposing, stately, majestic, august, grandiose
+grant - vouchsafe, concede, accord, award
+graphic - lifelike, realistic, vivid
+grieve - lament, mourn, sorrow
+gruff - brusque, blunt, bluff, curt, crusty
+guide - lead, pilot, sheperd, steer, usher
+habit - practice, custom, usage, use, wont, habitude
+haggard - wasted, worn, careworn
+hamper - fetter, handcuff, hobble, hog-tie, manacle, shackle, trammel
+handle - manipulate, wield, ply
+happen - befall, betide, chance, occur
+happy - fortunate, lucky, providential
+harass - harry, hound, badger, pester, plague, bait
+hard - difficult, arduous
+harden - acclimate, acclimatize, season, toughen
+haste - celerity, dispatch, expedition, hurry, speed
+hateful - detestable, odious, obnoxious, offensive, repellent
+healthy - sound, wholesome, hale, robust, well, hardy, vigorous
+heap - bank, mound, pile, stack
+heavy - weighty, hefty, massive, ponderous, cumbersome
+help - aid, assist, succor
+heritage - inheritance, legacy, tradition
+hesitate - vacillate, waver, falter
+hide - conceal, secrete, cache, screen, bury, cloak
+high - tall, lofty, towering, elevated
+hinder - hamper, impede, obstruct, block, dam, bar
+hole - hollow, cavity, pocket
+honesty - honor, integrity, probity, rectitude
+honor - homage, reverence, veneration, deference
+humane - compassionate, humanitarian, merciful
+idea - thought, notion, concept, conception
+ideal - model, example, exemplar, standard, pattern
+ignorant - uneducated, untaught, unlearned, untutored, unlettered, illiterate
+imagination - fancy, fantasy
+imitate - copy, mimic, ape, parody, simulate
+immaterial - incorporeal, insubstantial, metaphysical, spiritual
+impact - repercussion
+impetuous - heedless, hasty, headlong, precipitate, sudden
+importance - consequence, moment, significance, import, weight
+impostor - quack, faker, humbug, mountebank, charlatan
+impression - impress, imprint, print, stamp
+improper - unbecoming, unseemly, indelicate, indecent, indecorous
+improve - better, help, ameliorate
+inactive - idle, inert, passive, dormant, torpid, supine
+incalculable - countless, immeasurable, incomputable, infinite, innumerable, measureless
+incisive - trenchant, biting, cutting, crisp, clear-cut
+incite - instigate, foment, abet
+incline - bias, dispose, predispose
+include - comprise, comprehend, embrace, involve
+inconsistent - incongruous, incompatible, discordant, uncongenial, discrepant
+increase - expand, enlarge, extend, augment, multiply
+indicate - argue, attest, bespeak, betoken, testify, witness
+indifferent - unconcerned, incurious, detached, uninterested
+indirect - circuitous, roundabout
+indispensable - essential, necessary, needful, requisite
+infinite - boundless, eternal, illimitable, sempiternal
+inflexible - inexorable, adamant, obdurate
+injure - harm, hurt, damage, impair, mar, spoil
+injustice - injury, wrong, grievance
+innate - inborn, inbred, congenital, hereditary
+inquiry - inquest, inquisition, investigation, probe, research
+insanity - lunacy, madness, mania, dementia
+instinctive - instinctual, intuitive, visceral
+insubordinate - rebellious, mutinous, factious, seditious
+intelligent - bright, brilliant, knowing, quick-witted, smart, intellectual
+intense - fierce, vehement, violent
+intention - intent, purpose, goal, end, aim, object, objective
+interfere - meddle, tamper
+intimidate - browbeat, bulldoze, cow, bully, bludgeon
+introduce - insert, interject, interlard, interpolate, interpose
+intrude - obtrude
+irrelevant - extraneous, immaterial, impertinent
+isolate - insulate, seclude, segregate, sequester
+item - detail, particular
+jealous - covetous, envious
+jerk - snap, twitch, wrench, yank
+join - combine, unite, link, connect, relate, associate
+joke - jest, witticism, quip, sally, crack, wisecrack, gag
+jolly - jovial, merry, blithe, jocund
+judge - arbitrator, arbiter, referee, umpire
+justify - warrant
+keep - retain, withhold, reserve
+kind - kindly, kindhearted, benign, benevolent
+knowledge - information, learning, erudition, lore, scholarship
+lack - want, need
+large - big, great
+last - final, terminal, eventual, ultimate
+latent - dormant, quiescent
+lawyer - attorney, counselor, counsel, barrister, solicitor
+lazy - faineant, idle, indolent, slothful
+lean - spare, skinny, scrawny, lank, lanky, rawboned, gaunt
+learned - erudite, scholarly
+lethargy - lassitude, torpor, torpidity, stupor, languor
+letter - epistle, missive, note
+level - flat, even, plane, smooth, flush
+liberal - bounteous, bountiful, freehanded, generous, handsome, munificent, openhanded
+lie - equivocate, fib, palter, prevaricate
+lift - raise, rear, elevate, hoist, heave, boost
+like - love, enjoy, relish, fancy, dote
+likeness - similarity, similitude, resemblance, analogy, affinity
+limit - restrict, confine, circumscribe
+limp - flabby, flaccid, floppy
+livelihood - living, subsistence, sustenance, maintenance, support, keep
+living - alive, live, animate, animated, vital
+logical - analytic, ratiocinative, rational
+loose - lax, slack
+loud - earsplitting, stentorian, strident
+love - affection, devotion, fondness, infatuation
+lure - entice, inveigle, decoy, tempt, seduce
+lurk - skulk, slink, sneak
+makeshift - expedient, resort, stopgap
+male - masculine, manlike, manly, manful, virile, mannish
+malign - defame, traduce, vilify, asperse, slander, calumniate, libel
+malleable - ductile, plastic, pliable, pliant
+manipulate - exploit, maneuver
+mark - brand, label, tag, ticket
+mature - age, develope, ripen
+meager - spare, sparse, skimpy, scanty, scant
+mean - denote, import, signify
+mean - low, base, abject, ignoble, sordid
+meaning - acceptation, import, sense, significance, signification
+meaningless - senseless, mindless, irrational, pointless, purposeless
+melt - fuse, liquefy, thaw, deliquesce
+memory - remembrance, recollection, reminiscence
+mercy - leniency, lenity, clemency, charity
+method - system, routine, manner, mode, fashion, way
+meticulous - careful, painstaking, scrupulous, fastidious, punctilious
+mind - intellect, intelligence, brain, wit, reason
+mirth - merriment, jollity, hilarity, glee
+miscellaneous - heterogeneous, motley, mixed, varied, assorted
+misfortune - adversity, mishap, mischance
+misleading - deceptive, delusive, delusory
+mix - blend, mingle, coalesce, merge, amalgamate, fuse
+mixture - blend, admixture, compund, composite, amalgam
+moderate - qualify, temper
+moment - instant, minute, second, jiffy, flash
+monopolize - absorb, consume, engross, preoccupy
+mood - humor, temper
+moral - ethical, virtuous, righteous
+morale - esprit, esprit de corps
+moving - stirring, poignant, touching, pathetic, affecting
+multitude - host, legion, army
+muscular - athletic, brawny, burly, sinewy
+mysterious - esoteric, arcane, occult, inscrutable
+naive - simple, ingenuous, unsophisticated, natural, unaffected, guileless, artless
+name - designation, denomination, title, appellation, cognomen
+native - indigenous, endemic, autochthonous, aboriginal
+nautical - marine, maritime, naval
+neat - tidy, trim, shipshape, spick-and-span, spruce, trig
+need - necessity, exigency, requisite
+negligent - derelict, lax, neglectful, remiss, slack
+neutralize - negate, nullify, counteract
+new - fresh, novel, newfangled, original
+news - advice, intelligence, tidings, word
+nimble - agile, quick, brisk, facile, spry
+noise - din, racket, uproar, pandemonium, hullabaloo, hubbub, clamor, babel
+normal - regular, natural, typical
+noted - celebrated, eminent, famed, famous, illustrious, notable, preeminent, renowned
+noticeable - observable, marked, conspicuous, prominent, outstanding, salient, remarkable, signal, arresting, striking
+nuance - gradation, shade
+nurture - cultivate, foster, nurse
+obedient - biddable, compliant, acquiescent, submissive, docile, amenable, tractable
+object - protest, kick, demur, remonstrate, expostulate
+obligation - responsibility, duty
+oblige - accommodate, favor
+observe - keep, celebrate, commemorate, solemnize
+obstacle - obstruction, bar, barrier, block, hindrance, impediment, snag
+obstinate - stubborn, headstrong, stiff-necked, bullheaded, pigheaded, mulish, dogged, pertinacious
+occurrence - happening, event, incident, episode, circumstance
+offend - insult, affront, outrage
+offense - crime, sin, error
+offensive - disgusting, loathsome, nasty, repellent, repulsive, revolting, vile
+offer - proffer, tender, present
+old - ancient, archaic, antediluvian, obsolete, antique, antiquated
+opinion - view, sentiment, feeling, belief, conviction, persuasion
+opponent - adversary, antagonist
+opportune - seasonable, timely, well-timed
+opportunity - occasion, opening, chance, break
+oppose - fight, combat, resist, withstand, contest
+opposite - contrary, antithetical, contradictory
+orderly - methodical, systematic
+origin - inception, source, root
+ornate - florid, flamboyant, baroque, rococo
+outline - contour, profile, silhouette
+outlive - outlast, survive
+outrageous - flagrant, atrocious, monstrous
+overthrow - overturn, subvert, topple, upset
+pacify - mollify, conciliate, appease, placate
+pain - ache, pang, smart, stitch, throe, twinge
+palliate - extenuate, gloss, gloze, whitewash
+pamper - indulge, humor, spoil, coddle, mellycoddle, babe
+paragon - nonsuch, nonpareil
+partner - colleague, ally, confederate
+passion - fervor, fire, zeal, ardor
+pathetic - pitiful, pitiable, piteous, lamentable
+patience - long-suffering, resignation, forbearance
+pause - intermission, recess, respite, suspension
+pedantic - academic, bookish, donnish, scholastic
+penitence - compunction, contrition, remorse, repentance
+pensive - contemplative, reflective, meditative, thoughtful
+perceptible - palpable, appreciable, noticeable, discernible
+perfect - consummate, faultless, flawless, impeccable
+perform - execute, accomplish, achieve, effect, fulfill, discharge
+period - epoch, era, age, term
+periodic - sporadic, intermittent, occasional, fitful
+permission - authorization, consent, leave, license
+perseverance - persistence, tenacity, pertinacity
+persuade - induce, prevail, convince
+phase - aspect, facet, angle, side
+physique - build, constitution
+pity - compassion, commiseration, sympathy, condolence, empathy
+plain - modest, simple, unostentatious, unpretentious
+plan - blueprint, design, project, scheme, strategy
+plausible - believable, colorable, credible
+playful - mischievous, impish, waggish, frolicsome
+please - delight, gladden, gratify, tickle
+pleasure - enjoyment, delight, delectation, joy
+plentiful - abundant, ample, copious, plenteous
+poet - bard, versifier, rhymer, rhymester, poetaster
+poisonous - mephitic, pestilent, pestilential, toxic, venomous, virulent
+polite - mannerly, civil, courteous, genteel
+ponder - meditate, deliberate, ruminate, mull, muse
+poor - indigent, needy, impecunious, penniless, impoverished, poverty-stricken, destitute
+possible - workable, practicable, feasible, viable
+posture - attitude, carriage, pose, stance
+practice - drill, exercise, rehearse
+praise - acclaim, commend, extol, laud
+predicament - plight, quandary, jam, fix, pickle
+predict - call, forecast, foretell, prognosticate
+predilection - bias, leaning, partiality, penchant, prejudice, proclivity, propensity
+preliminary - introductory, prefatory, preparatory
+presume - presuppose, postulate, posit, assume
+pretend - assume, affect, simulate, feign, fake, counterfeit
+prevailing - prevalent, current, rife
+prevent - preclude, avert, obviate, forestall
+price - charge, cost, expense
+produce - bear, yield
+profane - blasphemous, sacrilegious
+proficient - adept, skilled, skillful, expert
+profuse - exuberant, lavish, lush, luxuriant, prodigal, riotous
+promise - covenant, engage, pledge, plight, swear, vow
+prone - supine, prostrate, recumbent
+proportion - harmony, symmetry, balance
+propose - pose, propound, submit
+proud - arrogant, haughty, disdainful, supercilious
+provoke - incite, excite, stimulate, arouse, rouse, stir
+prudence - discretion, foresight, forethought, circumspection
+pull - drag, draw, haul, tow, tug
+pulsate - pulse, beat, palpitate, throb
+punish - correct, chastise, discipline, castigate, penalize
+pure - absolute, sheer, simple, unadulterated
+push - propel, shove, thrust
+puzzle - perplex, mystify, bewilder, confound
+quality - property, attribute, character, trait
+qualm - scruple, compunction, misgiving
+quibble - carp, cavil, niggle, nitpick, pettifog
+range - ambit, compass, orbit, purview, reach, scope, sweep
+reach - achieve, attain, gain, compass
+real - actual, true, existent
+reap - garner, gather, gleam, harvest
+reason - intuition, understanding, judgement
+rebellion - revolution, revolt, mutiny, insurrection, uprising
+recede - ebb, retract, retreat, retrograde
+reciprocate - requite, return
+reckless - rash, precipitate, foolhardy, temerarious
+recoil - blench, quail, shrink, flinch
+recover - regain, recoup, retrieve
+refer - advert, mention
+refrain - abstain, forbear
+refuse - decline, reject, spurn, rebuff
+regard - esteem, admiration, respect
+regret - sorrow, grief, anguish, woe, heartache, heartbreak
+relevant - pertinent, germane, material, apposite, apropos
+reliable - dependable, responsible, trustworthy
+relieve - allay, alleviate, assuage, lighten, mitigate, palliate
+religious - devout, pious, sanctimonious
+relinquish - yield, resign, abandon, surrender, cede, waive, renounce
+rely - trust, depend, reckon
+remainder - rest, balance, residue, residuum, remnant, leavings, remains
+remember - bethink, recall, recollect
+reparation - redress, amends, restitution, indemnity
+repeat - iterate, reiterate, restate
+replace - supplant, supersede
+represent - delineate, depict, limn, picture, portray
+resort - apply, go, refer, turn
+responsible - answerable, liable, accountable, amenable
+rest - relaxation, repose, leisure, ease, comfort
+restrain - curb, check, bridle, inhibit
+return - revert, recur, recrudesce
+reveal - expose, disclose, divulge, betray
+revere - worship, venerate, adore, idolize
+reverse - invert, transpose
+revive - restore, resuscitate, revivify
+rhythm - meter, cadence
+rich - affluent, flush, loaded, moneyed, wealthy
+ridicule - mock, taunt, twit, deride, gibe
+right - privilege, prerogative, perquisite, birthright
+rise - ascend, climb, soar, tower, mount, surge
+rival - compete, vie, emulate
+room - elbowroom, latitude, leeway, margin, play, scope
+rough - harsh, jagged, rugged, scabrous, uneven
+rude - crude, primitive, raw, rough
+ruin - raze, demolish, destroy, wreck
+rural - bucolic, rustic, pastoral
+sad - melancholy, sorrowful, doleful, woebegone, desolate
+same - identical, selfsame, very
+sarcastic - ironic, caustic, satirical, sardonic
+satiate - sate, cloy, glut, gorge, surfeit
+satisfy - answer, fill, fullfil, meet
+save - rescue, reclaim, redeem, deliver
+saying - maxim, adage, saw, motto, epigram, proverb, aphorism
+scatter - disperse, dissipate, dispel
+scold - upbraid, berate, revile, vituperate, rail
+scream - shriek, screech
+secret - stealthy, covert, clandestine, furtive, surreptitious, underhand
+see - behold, note, notice, espy, descry, observe, contemplate, survey, view, perceive, discern, remark
+seek - hunt, quest, search
+seem - appear, look
+send - dispatch, forward, route, ship, transmit
+sensuous - sensual, luxurious, voluptuous, sybaritic, epicurean
+sentimental - bathetic, maudlin, mawkish, mushy, romantic, schmaltzy, slushy, soppy
+separate - divide, part, sever, sunder, divorce
+series - succession, progression, sequence, chain, train, string
+serious - sober, grave, solemn, earnest, sedate, staid
+servitude - bondage, slavery
+severe - stern, austere, ascetic, strict
+shade - penumbra, shadow, umbra, umbrage
+shake - tremble, quake, quiver, shiver, shudder
+shameless - brazen, barefaced, brash, impudent, unblushing
+shapleless - amorphous, formless, unformed, unshaped
+share - participate, partake
+sharp - keen, acute
+shelter - cover, retreat, refuge, asylum, sanctuary
+shorten - abbreviate, abridge, curtail, truncate
+shout - bawl, bellow, holler, howl, roar, whoop, yell
+show - display, expose, parade, exhibit, flaunt
+showy - flamboyant, ostentatious, pretentious, splashy
+shrewd - sagacious, astute, perspicacious
+shy - bashful, diffident, modest, coy, demure
+sign - badge, mark, token, symptom, note
+silent - reticent, reserved, taciturn, secretive, uncommunicative, tightlipped
+sincere - unaffected, unfeigned, wholehearted, hearty, heartfelt
+single - sole, unique, solitary, lone, separate
+sinister - baleful, malign
+slant - incline, lean, slope, tilt, tip
+sleek - glossy, satiny, silken, silky, slick
+slide - slip, glide, coast, skid, slither
+sloppy - slovenly, unkempt, slipshod
+slow - dilatory, leisurely, laggard, deliberate
+sly - cunning, tricky, crafty, wily, foxy, artful, guileful
+small - diminutive, little, miniature, minuscule, minute, petite, tiny, wee
+smell - aroma, odor, scent
+smile - grin, simper, smirk
+social - companionable, convivial, gregarious, sociable
+solitude - isolation, seclusion, retirement
+solve - decipher, resolve, unravel
+sour - acid, acidulous, dry, tart
+spacious - ample, capacious, commodious, roomy
+sparing - frugal, thrifty, economical
+speak - talk, converse, discourse
+speed - hurry, hasten, quicken, accelerate, precipitate
+spend - disburse, expend
+spontaneous - impulsive, instinctive, involuntary, automatic
+stain - blot, brand, stigma, taint
+stammer - stutter
+standard - benchmark, criterion, gauge, measure, touchstone, yardstick
+state - condition, situation, status
+stay - remain, wait, abide, tarry, linger, sojourn
+steady - even, equable, uniform, constant
+steal - purloin, filch, snitch, pilfer, cop, hook, swipe, lift, pinch
+steep - abrupt, precipitous, sheer
+stem - arise, derive, emanate, flow, issue, originate
+stench - fetor, malodor, reek, stink
+sterile - infertile, barren, unfruitful, impotent
+stiff - rigid, inflexible, inelastic, tense
+still - quiet, silent, noiseless, soundless
+stingy - close, close-fisted, niggardly, penny-pinching, miserly, parsimonious, penurious, tight
+stoop - condescend, deign
+stop - cease, desist, discontinue, halt, quit
+strange - peculiar, odd, queer, quaint, outlandish, singular, eccentric, curious
+streak - strain, vein
+strength - power, might, energy, force
+strip - divest, denude, bare
+strong - stout, sturdy, tough, stalwart, tenacious
+strut - swagger, swank
+stupid - slow, dumb, dull, obtuse, dense
+suave - smooth, urbane, diplomatic, politic
+subject - matter, topic, theme
+substance - burden, core, gist, pith, purport
+sufficient - adequate, enough
+suggest - imply, hint, intimate, insinuate
+summit - peak, pinnacle, acme, apex, zenith, climax
+superficial - shallow, cursory
+superfluous - excess, extra, spare, supernumerary, surplus, supererogatory
+supervise - boos, overlook, oversee, superintend
+support - uphold, back, advocate, champion
+supposed - conjectural, hypothetical, putative, reputed, suppositious, supposititious
+suppress - stifle, repress
+sure - certain, confident, positive
+surprise - astonish, amaze, astound, dumbfound, flabbergast
+surrender - submission, capitulation
+surround - circle, compass, encircle, encompass, environ, gird, girdle, ring
+swerve - depart, deviate, digress, diverge, stray, veer
+swing - oscillate, sway, rock, vibrate, fluctuate, undulate, waver
+symbol - attribute, emblem
+tact - address, diplomacy, savoir-faire
+talkative - loquacious, garrulous, voluble, verbose, glib
+tardy - behindhand, late, overdue
+task - job, chore, stint, assignment
+taste - flavor, relish, savor, smack, tang
+teach - instruct, educate, train, school, discipline, drill
+tear - rip, rend, split, cleave
+teem - abound, bristle, crawl, overflow, swarm
+temerity - audacity, effrontery, nerve, cheek, gall
+tend - attend, mind, minister, watch
+tendency - trend, current, drift, tenor, inclination
+theoretical - abstract, academic, hypothetical, speculative
+think - cerebrate, cogitate, reason, reflect, speculate
+thoughtful - considerate, attentive, solicitous
+threaten - menace, intimidate
+throw - cast, hurl, fling, pitch, toss, sling
+tight - taut, tense
+timid - timorous
+tire - weary, fatigue, exhaust, jade
+tireless - indefatigable, unflagging, untiring, unwearied, weariless
+tool - instrument, implement, utensil, appliance
+touch - feel, finger, handle, palpate, paw
+trace - vestige, track, trail
+transient - transitory, ephemeral, fleeting, fugitive, momentary, evanescent
+treat - deal, handle
+trial - affliction, crucible, ordeal, tribulation, visitation
+trite - hackneyed, shopworn, stereotyped, threadbare, stale, banal
+trivial - trifling, paltry, petty, picayune
+trouble - ail, distress, worry
+trust - faith, confidence, reliance, dependence
+truth - veracity, verity, verisimilitude
+turn - rotate, revolve, gyrate, spin, whirl, circle, eddy, swirl
+type - kind, sort, nature, character, ilk
+ugly - hideous, ill-favored, unsightly
+uncertainty - doubt, dubiety, skepticism, suspicion, mistrust
+unctuous - fulsome, oily, oleaginous, smarmy
+unfortunate - hapless, ill-fated, ill-started, luckless, unlucky
+unity - union, solidarity
+unruly - ungovernable, intractable, refractory, recalcitrant, willful, headstrong, wayward
+unspeakable - indefinable, indescribable, ineffable, inexpressible, unutterable
+urge - press, exhort, prod, prick
+urgent - pressing, imperative, exigent
+use - employ, utilize
+usual - habitual, customary, accustomed
+vain - empty, hollow, idle, nugatory, otiose
+valid - sound, cogent, convincing, telling
+vent - express, utter, voice, air
+versatile - all-around, many-sided, multifaceted, multifarious
+vertical - upright, perpendicular, plumb
+victory - conquest, triumph
+vigor - dash, punch, verve, vim, vitality
+vindictive - vengeful, revengeful
+vociferous - blatant, boisterous, strident, clamorous
+voluntary - intentional, deliberate, willful, willing
+voracious - gluttonous, rapacious, ravenous
+votary - devotee, habitu 
+wander - ramble, roam, rove, range, meander, stray, gallivant, gad
+warn - caution, forewarn
+waste - blow, consume, dissipate, fritter, squander
+way - route, course, passage, pass, artery
+weak - feeble, frail, fragile, infirm, decrepit, debilitated
+weird - eerie, uncanny, unearthly
+wet - damp, moist, dank, humid
+whole - all, entire, gross, total
+wise - sage, sapient, judicious, prudent, sensible, sane
+wit - humor, repartee, sarcasm, irony
+wonder - marvel, miracle, phenomenon, prodigy, sensation
+wordy - diffuse, long-winded, prolix, verbose
+work - labor, toil, drudgery, travail
+writhe - agonize, squirm
+yearn - long, pine, hanker, hunger, thirst
+yield - relent, bow, defer, submit, capitulate, succumb
+young - youthful, adolescent, immature, juvenile, puerile, green
+zest - gusto, relish
+Amazing - incredible, unbelievable, improbable, fabulous, wonderful, fantastic, astonishing, astounding, extraordinary
+Anger - enrage, infuriate, arouse, nettle, exasperate, inflame, madden
+Angry - mad, furious, enraged, excited, wrathful, indignant, exasperated, aroused, inflamed
+Answer - reply, respond, retort, acknowledge
+Ask - question, inquire of, seek information from, put a question to, demand, request, expect, inquire, query, interrogate, examine, quiz
+Awful - dreadful, terrible, abominable, bad, poor, unpleasant
+Bad - evil, immoral, wicked, corrupt, sinful, depraved, rotten, contaminated, spoiled, tainted, harmful, injurious, unfavorable, defective, inferior, imperfect, substandard, faulty, improper, inappropriate, unsuitable, disagreeable, unpleasant, cross, nasty, unfriendly, irascible, horrible, atrocious, outrageous, scandalous, infamous, wrong, noxious, sinister, putrid, snide, deplorable, dismal, gross, heinous, nefarious, base, obnoxious, detestable, despicable, contemptible, foul, rank, ghastly, execrable
+Beautiful - pretty, lovely, handsome, attractive, gorgeous, dazzling, splendid, magnificent, comely, fair, ravishing, graceful, elegant, fine, exquisite, aesthetic, pleasing, shapely, delicate, stunning, glorious, heavenly, resplendent, radiant, glowing, blooming, sparkling
+Begin - start, open, launch, initiate, commence, inaugurate, originate
+Big - enormous, huge, immense, gigantic, vast, colossal, gargantuan, large, sizable, grand, great, tall, substantial, mammoth, astronomical, ample, broad, expansive, spacious, stout, tremendous, titanic, mountainous
+Brave - courageous, fearless, dauntless, intrepid, plucky, daring, heroic, valorous, audacious, bold, gallant, valiant, doughty, mettlesome
+Break - fracture, rupture, shatter, smash, wreck, crash, demolish, atomize
+Bright - shining, shiny, gleaming, brilliant, sparkling, shimmering, radiant, vivid, colorful, lustrous, luminous, incandescent, intelligent, knowing, quick-witted, smart, intellectual
+Calm - quiet, peaceful, still, tranquil, mild, serene, smooth, composed, collected, unruffled, level-headed, unexcited, detached, aloof
+Come - approach, advance, near, arrive, reach
+Cool - chilly, cold, frosty, wintry, icy, frigid
+Crooked - bent, twisted, curved, hooked, zigzag
+Cry - shout, yell, yowl, scream, roar, bellow, weep, wail, sob, bawl
+Cut - gash, slash, prick, nick, sever, slice, carve, cleave, slit, chop, crop, lop, reduce
+Dangerous - perilous, hazardous, risky, uncertain, unsafe
+Dark - shadowy, unlit, murky, gloomy, dim, dusky, shaded, sunless, black, dismal, sad
+Decide - determine, settle, choose, resolve
+Definite - certain, sure, positive, determined, clear, distinct, obvious
+Delicious - savory, delectable, appetizing, luscious, scrumptious, palatable, delightful, enjoyable, toothsome, exquisite
+Describe - portray, characterize, picture, narrate, relate, recount, represent, report, record
+Destroy - ruin, demolish, raze, waste, kill, slay, end, extinguish
+Difference - disagreement, inequity, contrast, dissimilarity, incompatibility
+Do - execute, enact, carry out, finish, conclude, effect, accomplish, achieve, attain
+Dull - boring, tiring, tiresome, uninteresting, slow, dumb, stupid, unimaginative, lifeless, dead, insensible, tedious, wearisome, listless, expressionless, plain, monotonous, humdrum, dreary
+Eager - keen, fervent, enthusiastic, involved, interested, alive to
+End - stop, finish, terminate, conclude, close, halt, cessation, discontinuance
+Enjoy - appreciate, delight in, be pleased, indulge in, luxuriate in, bask in, relish, devour, savor, like
+Explain - elaborate, clarify, define, interpret, justify, account for
+Fair - just, impartial, unbiased, objective, unprejudiced, honest
+Fall - drop, descend, plunge, topple, tumble
+False - fake, fraudulent, counterfeit, spurious, untrue, unfounded, erroneous, deceptive, groundless, fallacious
+Famous - well-known, renowned, celebrated, famed, eminent, illustrious, distinguished, noted, notorious
+Fast - quick, rapid, speedy, fleet, hasty, snappy, mercurial, swiftly, rapidly, quickly, snappily, speedily, lickety-split, posthaste, hastily, expeditiously, like a flash
+Fat - stout, corpulent, fleshy, beefy, paunchy, plump, full, rotund, tubby, pudgy, chubby, chunky, burly, bulky, elephantine
+Fear - fright, dread, terror, alarm, dismay, anxiety, scare, awe, horror, panic, apprehension
+Fly - soar, hover, flit, wing, flee, waft, glide, coast, skim, sail, cruise
+Funny - humorous, amusing, droll, comic, comical, laughable, silly
+Get - acquire, obtain, secure, procure, gain, fetch, find, score, accumulate, win, earn, rep, catch, net, bag, derive, collect, gather, glean, pick up, accept, come by, regain, salvage
+Go - recede, depart, fade, disappear, move, travel, proceed
+Good - excellent, fine, superior, wonderful, marvelous, qualified, suited, suitable, apt, proper, capable, generous, kindly, friendly, gracious, obliging, pleasant, agreeable, pleasurable, satisfactory, well-behaved, obedient, honorable, reliable, trustworthy, safe, favorable, profitable, advantageous, righteous, expedient, helpful, valid, genuine, ample, salubrious, estimable, beneficial, splendid, great, noble, worthy, first-rate, top-notch, grand, sterling, superb, respectable, edifying
+Great - noteworthy, worthy, distinguished, remarkable, grand, considerable, powerful, much, mighty
+Gross - improper, rude, coarse, indecent, crude, vulgar, outrageous, extreme, grievous, shameful, uncouth, obscene, low
+Happy - pleased, contented, satisfied, delighted, elated, joyful, cheerful, ecstatic, jubilant, gay, tickled, gratified, glad, blissful, overjoyed
+Hate - despise, loathe, detest, abhor, disfavor, dislike, disapprove, abominate
+Have - hold, possess, own, contain, acquire, gain, maintain, believe, bear, beget, occupy, absorb, fill, enjoy
+Help - aid, assist, support, encourage, back, wait on, attend, serve, relieve, succor, benefit, befriend, abet
+Hide - conceal, cover, mask, cloak, camouflage, screen, shroud, veil
+Hurry - rush, run, speed, race, hasten, urge, accelerate, bustle
+Hurt - damage, harm, injure, wound, distress, afflict, pain
+Idea - thought, concept, conception, notion, understanding, opinion, plan, view, belief
+Important - necessary, vital, critical, indispensable, valuable, essential, significant, primary, principal, considerable, famous, distinguished, notable, well-known
+Interesting - fascinating, engaging, sharp, keen, bright, intelligent, animated, spirited, attractive, inviting, intriguing, provocative, though-provoking, challenging, inspiring, involving, moving, titillating, tantalizing, exciting, entertaining, piquant, lively, racy, spicy, engrossing, absorbing, consuming, gripping, arresting, enthralling, spellbinding, curious, captivating, enchanting, bewitching, appealing
+Keep - hold, retain, withhold, preserve, maintain, sustain, support
+Kill - slay, execute, assassinate, murder, destroy, cancel, abolish
+Lazy - indolent, slothful, idle, inactive, sluggish
+Little - tiny, small, diminutive, shrimp, runt, miniature, puny, exiguous, dinky, cramped, limited, itsy-bitsy, microscopic, slight, petite, minute
+Look - gaze, see, glance, watch, survey, study, seek, search for, peek, peep, glimpse, stare, contemplate, examine, gape, ogle, scrutinize, inspect, leer, behold, observe, view, witness, perceive, spy, sight, discover, notice, recognize, peer, eye, gawk, peruse, explore
+Love - like, admire, esteem, fancy, care for, cherish, adore, treasure, worship, appreciate, savor
+Make - create, originate, invent, beget, form, construct, design, fabricate, manufacture, produce, build, develop, do, effect, execute, compose, perform, accomplish, earn, gain, obtain, acquire, get
+Mark - label, tag, price, ticket, impress, effect, trace, imprint, stamp, brand, sign, note, heed, notice, designate
+Mischievous - prankish, playful, naughty, roguish, waggish, impish, sportive
+Move - plod, go, creep, crawl, inch, poke, drag, toddle, shuffle, trot, dawdle, walk, traipse, mosey, jog, plug, trudge, slump, lumber, trail, lag, run, sprint, trip, bound, hotfoot, high-tail, streak, stride, tear, breeze, whisk, rush, dash, dart, bolt, fling, scamper, scurry, skedaddle, scoot, scuttle, scramble, race, chase, hasten, hurry, hump, gallop, lope, accelerate, stir, budge, travel, wander, roam, journey, trek, ride, spin, slip, glide, slide, slither, coast, flow, sail, saunter, hobble, amble, stagger, paddle, slouch, prance, straggle, meander, perambulate, waddle, wobble, pace, swagger, promenade, lunge
+Moody - temperamental, changeable, short-tempered, glum, morose, sullen, mopish, irritable, testy, peevish, fretful, spiteful, sulky, touchy
+Neat - clean, orderly, tidy, trim, dapper, natty, smart, elegant, well-organized, super, desirable, spruce, shipshape, well-kept, shapely
+New - fresh, unique, original, unusual, novel, modern, current, recent
+Old - feeble, frail, ancient, weak, aged, used, worn, dilapidated, ragged, faded, broken-down, former, old-fashioned, outmoded, passe, veteran, mature, venerable, primitive, traditional, archaic, conventional, customary, stale, musty, obsolete, extinct
+Part - portion, share, piece, allotment, section, fraction, fragment
+Place - space, area, spot, plot, region, location, situation, position, residence, dwelling, set, site, station, status, state
+Plan - plot, scheme, design, draw, map, diagram, procedure, arrangement, intention, device, contrivance, method, way, blueprint
+Popular - well-liked, approved, accepted, favorite, celebrated, common, current
+Predicament - quandary, dilemma, pickle, problem, plight, spot, scrape, jam
+Put - place, set, attach, establish, assign, keep, save, set aside, effect, achieve, do, build
+Quiet - silent, still, soundless, mute, tranquil, peaceful, calm, restful
+Right - correct, accurate, factual, true, good, just, honest, upright, lawful, moral, proper, suitable, apt, legal, fair
+Run - race, speed, hurry, hasten, sprint, dash, rush, escape, elope, flee
+Tell - inform, notify, advise, relate, recount, narrate, explain, reveal, disclose, divulge, declare, command, order, bid, enlighten, instruct, insist, teach, train, direct, issue, remark, converse, speak, affirm, suppose, utter, negate, express, verbalize, voice, articulate, pronounce, deliver, convey, impart, assert, state, allege, mutter, mumble, whisper, sigh, exclaim, yell, sing, yelp, snarl, hiss, grunt, snort, roar, bellow, thunder, boom, scream, shriek, screech, squawk, whine, philosophize, stammer, stutter, lisp, drawl, jabber, protest, announce, swear, vow, content, assure, deny, dispute
+Scared - afraid, frightened, alarmed, terrified, panicked, fearful, unnerved, insecure, timid, shy, skittish, jumpy, disquieted, worried, vexed, troubled, disturbed, horrified, terrorized, shocked, petrified, haunted, timorous, shrinking, tremulous, stupefied, paralyzed, stunned, apprehensive
+Show - display, exhibit, present, note, point to, indicate, explain, reveal, prove, demonstrate, expose
+Slow - unhurried, gradual, leisurely, late, behind, tedious, slack
+Stop - cease, halt, stay, pause, discontinue, conclude, end, finish, quit
+Story - tale, myth, legend, fable, yarn, account, narrative, chronicle, epic, sage, anecdote, record, memoir
+Strange - odd, peculiar, unusual, unfamiliar, uncommon, queer, weird, outlandish, curious, unique, exclusive, irregular
+Take - hold, catch, seize, grasp, win, capture, acquire, pick, choose, select, prefer, remove, steal, lift, rob, engage, bewitch, purchase, buy, retract, recall, assume, occupy, consume
+Tell - disclose, reveal, show, expose, uncover, relate, narrate, inform, advise, explain, divulge, declare, command, order, bid, recount, repeat
+Think - judge, deem, assume, believe, consider, contemplate, reflect, mediate
+Trouble - distress, anguish, anxiety, worry, wretchedness, pain, danger, peril, disaster, grief, misfortune, difficulty, concern, pains, inconvenience, exertion, effort
+True - accurate, right, proper, precise, exact, valid, genuine, real, actual, trusty, steady, loyal, dependable, sincere, staunch
+Ugly - hideous, frightful, frightening, shocking, horrible, unpleasant, monstrous, terrifying, gross, grisly, ghastly, horrid, unsightly, plain, homely, evil, repulsive, repugnant, gruesome
+Unhappy - miserable, uncomfortable, wretched, heart-broken, unfortunate, poor, downhearted, sorrowful, depressed, dejected, melancholy, glum, gloomy, dismal, discouraged, sad
+Use - employ, utilize, exhaust, spend, expend, consume, exercise
+Wrong - incorrect, inaccurate, mistaken, erroneous, improper, unsuitable
+able - capable, competent
+abrupt - sudden, hasty
+achieve - accomplish, attain
+add - total, sum
+after - following, subsequent
+aim - purpose, goal
+all - every, entire
+allow - permit, grant
+anger - rage, fury
+answer - response, reply
+arrive - reach, get
+ask - question, interrogate
+astonish - surprise, amaze
+back - rear, behind
+bear - endure, tolerate
+before - prior, in front of
+begin - start, initiate
+below - under, beneath
+birth - origin, genesis
+border - edge, margin
+bother - annoy, pester
+boy - lad, youth
+brave - courageous, daring
+bulge - swell, protrude
+busy - occupied, engaged
+call - shout, yell
+calm - composed, serene
+car - auto, vehicle
+carry - tote, lug
+careful - cautious, prudent
+change - vary, alter
+change - vary, alter
+charm - fascinate, enchant
+cheat - deceive, swindle
+children - youngsters, tots
+city - borough, town
+close - shut, seal
+consent - agree, acquiesce
+continue - persevere, persist
+country - nation, state
+cure - heal, restore
+danger - peril, hazard
+decrease - lessen, diminish
+defect - flaw, blemish
+delay - postpone, procrastinate
+different - varied, diverse
+disaster - calamity, catastrophe
+divide - separate, split
+during - while, at
+dwell - live, reside
+eat - consume, devour
+effort - exertion, endeavor
+end - finish, complete
+energy - power, strength
+enough - adequate, sufficient
+error - mistake, fallacy
+explain - expound, elucidate
+faith - trust, reliance
+fat - plump, stout
+fetch - bring, retrieve
+find - locate, discover
+fix - repair, mend
+flat - level, flush
+food - nourishment, sustenance
+form - shape, make
+fragile - delicate, breakable
+freedom - independence, liberty
+frequent - often, many
+gay - lively, vivacious
+gift - present, donation
+give - grant, hand
+glum - morose, sullen
+go - leave, depart
+grateful - appreciative, thankful
+great - grand, large
+grow - mature, develop
+happy - glad, joyous
+have - own, possess
+hard - difficult, troublesome
+hate - detest, despise
+heal - mend, cure
+help - aid, assist
+hide - conceal, secrete
+high - tall, lofty
+hold - grasp, clutch
+hurry - rush, accelerate
+idea - thought, concept
+ill - sick, indisposed
+income - revenue, earnings
+injure - wound, hurt
+job - work, occupation
+junk - rubbish, waste
+just - fair, right
+keep - hold, retain
+key - answer, solution
+kind - considerate, helpful
+kill - slaughter, murder
+large - big, enormous
+last - endure, persist
+late - tardy, delayed
+learn - acquire, understand
+leave - depart, go
+like - enjoy, be fond of
+listen - hear, attend
+little - small, petite
+long - lengthy, drawn
+look - glance, see
+mad - crazy, insane
+make - build, construct
+many - multitudinous, numerous
+marvelous - wonderful, extraordinary
+mean - stand for, denote
+mend - repair, restore
+method - way, manner
+might - may, perhaps
+mistake - error, blunder
+move - transport, propel
+name - title, designation
+near - close, in the vicinity
+need - require, want
+new - fresh, recent
+noise - uproar, clamor
+novice - beginner, learner
+occur - happen, take
+often - frequently, repeatedly
+omit - delete, remove
+one - single, unit
+old - aged, ancient
+open - unlock, unseal
+ornament - decoration, adornment
+outlive - survive, outlast
+page - sheet, leaf
+pain - ache, hurt
+pair - couple, duo
+pardon - forgive, excuse
+part - portion, piece
+peak - summit, top
+people - public, populace
+play - frolic, romp
+praise - acclaim, applaud
+primary - chief, principal
+prohibit - forbid, restrict
+put - place, locate
+raid - attack, invade
+reckless - careless, rash
+remote - distant, secluded
+renew - restore, revive
+respect - honor, revere
+revise - alter, correct
+right - correct, proper
+say - state, remark
+seem - appear, look
+sell - vend, market
+shame - humiliation, mortification
+sorry - regretful, penitent
+speed - haste, hurry
+start - begin, commence
+stop - halt, end
+story - tale, account
+show - demonstrate, display
+still - unmoving, silent
+strength - power, energy
+supply - provide, furnish
+surpass - exceed, outdo
+take - grab, seize
+tense - taut, rigid
+terrify - frighten, alarm
+thanks - gratitude, appreciation
+thaw - melt, dissolve
+thief - robber, crook
+thin - slender, slim
+think - reflect, contemplate
+time - period, season
+timid - fearful, cowardly
+tiny - small, diminutive
+trial - test, experiment
+try - attempt, endeavor
+turn - revolve, pivot
+true - faithful, loyal
+ugly - homely, plain
+understand - comprehend, discern
+unify - consolidate, combine
+uproar - tumult, pandemonium
+urge - press, exhort
+use - operate, employ
+vacant - empty, unoccupied
+value - worth, price
+vast - huge, immense
+verify - confirm, substantiate
+victor - winner, champion
+walk - stroll, saunter
+want - desire, crave
+waver - fluctuate, vacillate
+weak - feeble, impotent
+wealth - riches, fortune
+word - term, expression
+work - labor, toil
+world - globe, earth
+write – record, draft
